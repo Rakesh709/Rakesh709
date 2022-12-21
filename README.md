@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rakesh_Kumar
 - 👀 I’m interested in NewTech , webdevlopment,CyberSecurity.
-- 🌱 I’m currently learning JAVA. 
-- 💞️ I’m looking to collaborate on python &Java project.
+- 🌱 I’m currently learning React.js. 
+- 💞️ I’m looking to collaborate on JavaScript & React project.
 - 📫 How to reach me IG: @bucket_flow_
 - * you can check my youtube channel : Think You Don't Know 
                      mail: kumar.rakesh1997@outlook.com
