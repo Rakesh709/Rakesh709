@@ -13,7 +13,7 @@
 
 - 💻I regularly post video on YouTube [https://www.youtube.com/channel/UCbuj713mNtqbjvXplyJlR_g](https://www.youtube.com/channel/UCbuj713mNtqbjvXplyJlR_g)
 
-- 💬 Ask me about **React & Nodejs**
+- 💬 Ask me about **Jenkins, Dockers, K8s**
 
 - 📫 How to reach me **kumar.rakesh1997@outlook.com**
 
