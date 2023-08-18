@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Social_Media_MERN_App](https://github.com/Rakesh709/Social_Media_MERN_App)
 
-- 🌱 I’m currently learning **React & Nodejs**
+- 🌱 I’m currently learning **DevOps Tools**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rakesh709](https://github.com/Rakesh709)
 
