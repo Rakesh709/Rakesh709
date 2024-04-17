@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate DevOps Enthusiast && frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh709&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh709" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakesh709" alt="rakesh709" /></a> </p>
 
-- 🔭 I’m currently working on [Social_Media_MERN_App](https://github.com/Rakesh709/Social_Media_MERN_App)
+- 🔭 I’m currently working on [Mstry-Message-App](https://github.com/Rakesh709/Mstry-Message-App)
 
-- 🌱 I’m currently learning **DevOps Tools**
+- 🌱 I’m currently learning **DevOps Tools: Kops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rakesh709](https://github.com/Rakesh709)
 
