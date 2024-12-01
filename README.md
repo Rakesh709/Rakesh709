@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakesh709" alt="rakesh709" /></a> </p>
 
-- 🔭 I’m currently working on [Mstry-Message-App](https://github.com/Rakesh709/Mstry-Message-App)
+- 🔭 I’m currently working on [Full stack Blog App](https://github.com/Rakesh709/React-Dev/tree/main/12MegaBlog)
 
-- 🌱 I’m currently learning **DevOps Tools: Kops**
+- 🌱 I’m currently learning **DevOps Tools**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rakesh709](https://github.com/Rakesh709)
 
 - 💻I regularly post video on YouTube [https://www.youtube.com/channel/UCbuj713mNtqbjvXplyJlR_g](https://www.youtube.com/channel/UCbuj713mNtqbjvXplyJlR_g)
 
-- 💬 Ask me about **Jenkins, Dockers, K8s**
+- 💬 Ask me about **Jenkins, Dockers, K8s, React, JavaScript**
 
-- 📫 How to reach me **kumar.rakesh1997@outlook.com**
+- 📫 How to reach me **kumarrakesh7207459385@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
