@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakesh709" alt="rakesh709" /></a> </p>
 
-- 🔭 I’m currently working on [Youtube Clone](https://github.com/Rakesh709/youtube_clone)
+- 🔭 I’m currently working on [Doctor Appointment](https://github.com/Rakesh709/appointment-webapp)
 
-- 🌱 I’m currently learning **Nextjs + DevOps Tools**
+- 🌱 I’m currently learning **Terraform + DevOps Tools**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rakesh709](https://github.com/Rakesh709)
 
